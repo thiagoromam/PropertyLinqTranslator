@@ -10,7 +10,7 @@
     <description>$description$</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2013</copyright>
-    <tags>Microsoft.Linq.Translations PropertyTranslator QueryInterceptor</tags>
+    <tags>Computed Property Linq</tags>
 	<projectUrl>http://github.com/thiagoromam/PropertyLinqTranslator</projectUrl>
   </metadata>
 </package>
