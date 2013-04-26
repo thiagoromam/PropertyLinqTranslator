@@ -5,6 +5,5 @@ E:\Romam\Projetos\VS 2012\PropertyLinqTranslator\PropertyLinqTranslator\obj\Debu
 E:\Romam\Projetos\VS 2012\PropertyLinqTranslator\PropertyLinqTranslator\obj\Debug\PropertyLinqTranslator.pdb
 E:\Romam\Projetos\Visual Studio\PropertyLinqTranslator\PropertyLinqTranslator\bin\Debug\PropertyLinqTranslator.dll
 E:\Romam\Projetos\Visual Studio\PropertyLinqTranslator\PropertyLinqTranslator\bin\Debug\PropertyLinqTranslator.pdb
-E:\Romam\Projetos\Visual Studio\PropertyLinqTranslator\PropertyLinqTranslator\obj\Debug\PropertyLinqTranslator.csprojResolveAssemblyReference.cache
 E:\Romam\Projetos\Visual Studio\PropertyLinqTranslator\PropertyLinqTranslator\obj\Debug\PropertyLinqTranslator.dll
 E:\Romam\Projetos\Visual Studio\PropertyLinqTranslator\PropertyLinqTranslator\obj\Debug\PropertyLinqTranslator.pdb

@@ -1,5 +1,0 @@
-E:\Romam\Projetos\Visual Studio\PropertyLinqTranslator\PropertyLinqTranslator\bin\Release\PropertyLinqTranslator.dll
-E:\Romam\Projetos\Visual Studio\PropertyLinqTranslator\PropertyLinqTranslator\bin\Release\PropertyLinqTranslator.pdb
-E:\Romam\Projetos\Visual Studio\PropertyLinqTranslator\PropertyLinqTranslator\obj\Release\PropertyLinqTranslator.dll
-E:\Romam\Projetos\Visual Studio\PropertyLinqTranslator\PropertyLinqTranslator\obj\Release\PropertyLinqTranslator.pdb
-E:\Romam\Projetos\Visual Studio\PropertyLinqTranslator\PropertyLinqTranslator\obj\Release\PropertyLinqTranslator.csprojResolveAssemblyReference.cache
